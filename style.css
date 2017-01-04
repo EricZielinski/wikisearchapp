@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-size: 1.5em;
+  color: black;
+}
+
+#text {
+  border-radius: 5px;
+  width: 25%;
+  height: 1.25em;
+  font-size: inherit;
+}
+button {
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 12px;
+}
