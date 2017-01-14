@@ -15,3 +15,20 @@ button {
   border-radius: 5px;
   padding: 12px;
 }
+
+div {
+  display: block;
+  border: 2px solid black
+}
+
+a {
+  display: block;
+  color: inherit;
+  border: 2px solid black;
+  text-decoration: none;
+  text-align: left;
+}
+
+a:hover {
+  font-weight: bold;
+}
