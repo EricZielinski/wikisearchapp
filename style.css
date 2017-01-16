@@ -1,7 +1,6 @@
 body {
   text-align: center;
   font-size: 1.5em;
-  color: black;
 }
 
 #text {
@@ -16,19 +15,17 @@ button {
   padding: 12px;
 }
 
-div {
-  display: block;
-  border: 2px solid black
-}
-
 a {
   display: block;
   color: inherit;
-  border: 2px solid black;
   text-decoration: none;
   text-align: left;
 }
 
 a:hover {
   font-weight: bold;
+}
+
+#title {
+  text-align: center;
 }
