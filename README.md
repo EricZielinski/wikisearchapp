@@ -1,1 +1,1 @@
-https://gordonbombay88.github.io/wikisearchapp
+https://ericzielinski.github.io/wikisearchapp
